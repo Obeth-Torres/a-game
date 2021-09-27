@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    color: rgb(78, 77, 77);
+}
+.instructions {
+    text-align: center;
+}
+.grid {
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(78, 77, 77);
+    border: solid 6px rgb(78, 77, 77);
+}
+
+.grid div {
+    width: 96px;
+    height: 96px;
+    font-size: 50px;
+    text-align: center;
+    
+}
+.fichaNegra {
+    border: solid 2px rgb(78, 77, 77);
+    width: 96px;
+    height: 96px;
+    color: rgb(78, 77, 77);
+    background-color: rgb(78, 77, 77);
+}
+.ficha {
+    
+    border: solid 2px #ffff;
+    background-color: magenta;
+    color: #ffff;
+    
+}
